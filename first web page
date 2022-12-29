@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<title>first web page</title>
+	</head>
+	<body>
+	<!--intro about website-->
+		<h2>LET'S ENTER TO THE WORLD OF DIY ITEMS!!!</h2>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzIVJff1A9tQ73vpSiAKZCdIkW4eOm3pnQgw&usqp=CAU">
+		<P><b>HOLAAA!!</b><br> Many of us have heard about "best out of waste" products, which can be both aesthetically pleasing and practical for daily usage.<br> Here, we'll provide you access to a marketplace where you can purchase or sell these tiny, lovely objects that you can incorporate into your daily life and that are also friendly to the environment because they are produced entirely of reused and recyclable materials.<br>
+		<p>With these tiny new discoveries, let's spruce up our houses and places of employment and learn more about ourselves. SPEED UP! the link below to LOGIN/SIGN-UP and add your favourite items to your list!</p>
+
+<!--forms-->
+<h3>LOGIN/SIGN-UP</h3><br>
+<form>
+	<label>enter your email</label>
+	<input type="email" name="user_email" placeholder="enter email"><br>
+	<label>enter your username</label>
+	<input type="username" name="user_username" placeholder="enter username"><br>
+	<label>enter your password</label>
+	<input type="password" name="user_password" placeholder="enter password"><br>
+	<input type="submit" name="">
+</form>
+</body>
+</html>
